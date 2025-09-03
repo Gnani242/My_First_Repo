@@ -1,0 +1,3 @@
+Name = GnaneswraRao Enugutala
+Course =BSC(Computer Science)
+GitHub = GitHub is a cloud-based platform designed for developers to store, manage, and collaborate on code projects. It is built on Git, an open-source version control system created by Linus Torvalds, which allows developers to track changes, manage versions, and collaborate efficiently on software projects.
